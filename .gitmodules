@@ -1,0 +1,3 @@
+[submodule "Facechat"]
+	path = Facechat
+	url = https://github.com/lapinozz/Facechat
